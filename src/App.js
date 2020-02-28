@@ -27,8 +27,6 @@ class App extends Component {
             columns,
             courses: [],
             myCourses: [],
-            a: 0,
-            b: 0,
         };
     }
 
